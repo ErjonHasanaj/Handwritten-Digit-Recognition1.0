@@ -13,6 +13,7 @@ To set up the project, clone the repository and install the required dependencie
 
 \```bash
 git clone https://github.com/ErjonHasanaj/Handwritten-Digit-Recognition1.0.git
+
 cd handwritten-digit-recognizer
 pip install -r requirements.txt
 \```
