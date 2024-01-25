@@ -29,14 +29,14 @@ Draw a digit on the canvas, and the model will predict the digit in real-time. I
 To retrain the model with collected user feedback:
 
 \```bash
-python train_digit_recognizer.py
+python retrain_model.py
 \```
 
 ## Retraining with User Feedback
 Collected feedback data can be used to retrain the model. This helps in improving the model's accuracy over time:
 
 \```bash
-python retrain_with_feedback.py
+python retrain_model.py
 \```
 
 Ensure that the feedback images are stored in the specified feedback folder.
