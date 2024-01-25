@@ -45,4 +45,4 @@ Ensure that the feedback images are stored in the specified feedback folder.
 Contributions to the project are welcome. Please follow the standard fork-pull request workflow.
 
 ## License
-[MIT License](LICENSE)
+[Apache 2.0](LICENSE)
