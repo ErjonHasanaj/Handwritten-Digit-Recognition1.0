@@ -12,7 +12,7 @@ This project is a Handwritten Digit Recognizer built using Python and Keras with
 To set up the project, clone the repository and install the required dependencies:
 
 \```bash
-git clone https://github.com/your-github-username/handwritten-digit-recognizer.git
+git clone https://github.com/ErjonHasanaj/handwritten-digit-recognizer.git
 cd handwritten-digit-recognizer
 pip install -r requirements.txt
 \```
